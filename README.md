@@ -4,8 +4,8 @@ This repository contains machine learning models for predicting breast cancer di
 
 ## Models
 
-1. **Logistic Regression Model** (`yourname_model_v1.py`)
-2. **RandomForest Model** (`yourname_model_v2..py`)
+1. **Logistic Regression Model** (`gopu_model_v1.py`)
+2. **RandomForest Model** (`gopu_model_v2..py`)
 
 ## Usage
 
